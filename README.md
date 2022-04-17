@@ -30,4 +30,4 @@ Clone the repo and setup a virtual environment with Pywin32 pip installed, chang
 
 * PyWin32
   ```sh
-  npm install npm@latest -g
+  pip install PyWin32 -g
